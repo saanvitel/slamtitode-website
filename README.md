@@ -1,2 +1,3 @@
 # slamtitode-website
 
+# configuring git

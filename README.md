@@ -1,2 +1,2 @@
 # slamtitode-website
-hi poop
+hi kya's config
